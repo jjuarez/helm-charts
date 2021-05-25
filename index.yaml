@@ -3,7 +3,7 @@ entries:
   example:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-25T16:05:50.793914+02:00"
+    created: "2021-05-25T16:08:41.170236+02:00"
     description: A Helm chart for Kubernetes
     digest: 955c40a6eecb788847d213a09bd212850d14622cd5f323a5ac76663d01bcb279
     name: example
@@ -11,15 +11,4 @@ entries:
     urls:
     - charts/example-0.1.0.tgz
     version: 0.1.0
-  jjchart:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2021-05-25T16:05:50.793422+02:00"
-    description: A Helm chart for Kubernetes
-    digest: 8f3484e6e2e6bbfc8c10f111b8a3aff37e760f89e7a93673f4fd67ba5c3a7456
-    name: jjchart
-    type: application
-    urls:
-    - jjchart-0.1.0.tgz
-    version: 0.1.0
-generated: "2021-05-25T16:05:50.792705+02:00"
+generated: "2021-05-25T16:08:41.169585+02:00"
